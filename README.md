@@ -1,4 +1,4 @@
-## Regression-Project
+## Time series Regression-Project
 
 # Introduction
 Corporation Favorita is an Ecuador based organization involved in the setting up and administration of department stores and supermarkets. They deal in the retail of different family of products from food supplies to automotives and real estates. For this project I explored the sales data of different stores all around the country and got insights into the products and sales made on a daily over the course of 5 years. The goal is to use current sales data to predict future sales.
