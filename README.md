@@ -64,6 +64,8 @@ Yes, stores in the city of Quito and Pichincha state specifically in cluster 14 
 
 Sales are affected by promotions, seasons and events. Seasons like dry and rainy seasons, christmas season and also salary payments.
 
+Based on all analysis, sales are affected by events which confirms our null hypothesis.
+
 # Author
 Linda Adzigbli
 
